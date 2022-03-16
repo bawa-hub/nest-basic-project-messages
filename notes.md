@@ -7,3 +7,5 @@
 # nest generate controller messages/messages --flat
 
 # npm i class-validator class-transformer
+
+# make empty object inside messages.json file
